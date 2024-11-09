@@ -1,15 +1,3 @@
-/*
-Name: Sissi Li
-SFU ID: yla751
-
-How the advice works: Find the average of undealt cards in the deck, and if that added to our total exceeds 21, stand.
-
-*/
-
-// Academic honesty statement: I hereby confirm that this is my own work and I have not violated any of SFU’s Code of Academic Integrity and Good Conduct (S10.01).
-
-
-// Include headers
 #include <stdio.h>
 #include <cstdlib>
 #include <stdlib.h>
